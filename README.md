@@ -1,3 +1,3 @@
 # Hello world
 
-Authir name : Laxmikant yadava
+Author name : Laxmikant yadava
