@@ -1,3 +1,3 @@
 # Hello world
 
-Author name : Laxmikant yadava
+Author name : Jhon devo
